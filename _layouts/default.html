@@ -155,7 +155,7 @@
               {% endfor %}
               {% if dirlist.size > 2 %}
                  {% if dirlist[1] == "branches" %}
-                     <span class="version-warning"><a href="{{ site.baseurl }}/tags">Viewing development version(s). Click here for published version(s)</a></span>
+                     <span class="version-warning"><a href="{{ site.baseurl }}/tags">Viewing development version. Click here for list of published versions.</a></span>
                  {% elsif dirlist[1] == "tags" %}
                      {% assign this_tree = dirlist[2] | prepend: "tags/" %}
                      {% if this_tree != site.default_tree  %}
