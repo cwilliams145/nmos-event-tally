@@ -4,11 +4,11 @@
 
 ## Examples for branch v1.1-dev
 
+- [connection-status-message](connection-status-message.html)
 - [connectionapi-v1.1-receiver-active-get-mqtt-200](connectionapi-v1.1-receiver-active-get-mqtt-200.html)
 - [connectionapi-v1.1-receiver-active-get-websocket-200](connectionapi-v1.1-receiver-active-get-websocket-200.html)
 - [connectionapi-v1.1-sender-active-get-mqtt-200](connectionapi-v1.1-sender-active-get-mqtt-200.html)
 - [connectionapi-v1.1-sender-active-get-websocket-200](connectionapi-v1.1-sender-active-get-websocket-200.html)
-- [connection-status-message](connection-status-message.html)
 - [eventsapi-base-get-200](eventsapi-base-get-200.html)
 - [eventsapi-sourceid-get-200](eventsapi-sourceid-get-200.html)
 - [eventsapi-sources-get-200](eventsapi-sources-get-200.html)
